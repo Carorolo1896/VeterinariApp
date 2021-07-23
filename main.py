@@ -1,4 +1,4 @@
-# Ralizado por Carolina Rodriguez Lopez
+# Realizado por Carolina Rodriguez Lopez
 
 # Se importan las librerias
 import numpy as np
