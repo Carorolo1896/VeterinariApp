@@ -1,0 +1,342 @@
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.exe
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.deps.json
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.runtimeconfig.json
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.runtimeconfig.dev.json
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.pdb
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Dominio.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Persistencia.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Dominio.pdb
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Persistencia.pdb
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.csproj.AssemblyReference.cache
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.AssemblyInfoInputs.cache
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.AssemblyInfo.cs
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.csproj.CopyComplete
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.dll
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.pdb
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.genruntimeconfig.cache
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.exe
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.deps.json
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.runtimeconfig.json
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.runtimeconfig.dev.json
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.pdb
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Dominio.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Persistencia.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Dominio.pdb
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Persistencia.pdb
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.csprojAssemblyReference.cache
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.AssemblyInfoInputs.cache
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.AssemblyInfo.cs
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.csproj.CoreCompileInputs.cache
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.csproj.CopyComplete
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.dll
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.pdb
+D:\INFO\Desktop\Veterinaria2.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.genruntimeconfig.cache
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.exe
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.deps.json
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.runtimeconfig.json
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.runtimeconfig.dev.json
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.pdb
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Dominio.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Persistencia.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Dominio.pdb
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Persistencia.pdb
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.csprojAssemblyReference.cache
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.AssemblyInfoInputs.cache
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.AssemblyInfo.cs
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.csproj.CoreCompileInputs.cache
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.csproj.CopyComplete
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.dll
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.pdb
+D:\INFO\Desktop\DEVELOMET TO SOTWARE_3\SOFTWARE DEVELOPMENT\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.genruntimeconfig.cache
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.exe
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.deps.json
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.runtimeconfig.json
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.runtimeconfig.dev.json
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.pdb
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Dominio.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Persistencia.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Dominio.pdb
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Persistencia.pdb
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.csproj.AssemblyReference.cache
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.AssemblyInfoInputs.cache
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.AssemblyInfo.cs
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.csproj.CopyComplete
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.dll
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.pdb
+C:\Users\Caro\Downloads\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.genruntimeconfig.cache
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.csprojAssemblyReference.cache
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.AssemblyInfoInputs.cache
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.AssemblyInfo.cs
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.csproj.CoreCompileInputs.cache
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.pdb
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.exe
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.deps.json
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.runtimeconfig.json
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.runtimeconfig.dev.json
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Consola.pdb
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Dominio.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Persistencia.dll
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Dominio.pdb
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\bin\Debug\netcoreapp3.1\Veterinaria.App.Persistencia.pdb
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.csproj.CopyComplete
+D:\INFO\Desktop\Proyecto_Vecterinaria\Proyecto_Vecterinaria\Veterinaria.App\Veterinaria.App.Consola\obj\Debug\netcoreapp3.1\Veterinaria.App.Consola.genruntimeconfig.cache
