@@ -42,3 +42,4 @@ C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App
 C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Admin\AdminAdministrador.cshtml.g.cs
 C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Admin\AdminVeterinario.cshtml.g.cs
 C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Registros\DuenoMascota.cshtml.g.cs
+C:\Users\Caro\Desktop\EQUIPO 6 GRUPO 28\proyecto\Veterinaria.App\Veterinaria.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Agenda\Agenda.cshtml.g.cs

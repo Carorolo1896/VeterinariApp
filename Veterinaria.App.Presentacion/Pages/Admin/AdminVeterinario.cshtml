@@ -3,26 +3,127 @@
 @{
 }
 
-<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<h1 style= "margin: 36px 10px;color: 51,0,102; font size: 0px;" @ViewData["TITLE PAGE"]</h1>
 
 
-<div class="wrapper fadeInDown">
-  <div id="formContent">
-    <!-- Tabs Titles -->
 
-    <!-- Login Form -->
-    <form>
-      <input type="text" id="login" class="fadeIn second" name="login" placeholder="login">
-      <input type="text" id="password" class="fadeIn third" name="login" placeholder="password">
-      <input type="submit" class="fadeIn fourth" value="Log In">
-    </form>
+<div class="accordion" id="accordionExample">
+    <div class="card">
+        <div class="card-header" id="headingOne">
+            <h2 class="mb-0">
+                <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse"
+                    data-target="#collapseCrudVeterinario" aria-expanded="true" aria-controls="collapseCrudVeterinario">
+                    Crud Veterinario
+                </button>
+            </h2>
+        </div>
 
-    <!-- Remind Passowrd -->
-    <div id="formFooter">
-      <a class="underlineHover" href="#">Forgot Password?</a>
+        <div id="collapseCrudVeterinario" class="collapse " aria-labelledby="headingOne"
+            data-parent="#accordionExample">
+            <div class="card-body">
+                <form>
+                    <div class="form-group">
+                        <label for="id-Nombre del Veterinario: ">Nombre del Veterinario: </label>
+                        <input type="email" class="form-control" id="id-Nombre del Veterinario"
+                            aria-describedby="emailHelp">
+                        <small id="emailHelp" class="form-text text-muted">Por favor ingrese su nombre en este
+                            campo.</small>
+
+                    </div>
+
+                    <div class="form-group">
+                        <label for="id-Telefono del Veterinario: ">Teléfono: </label>
+                        <input type="tel" class="form-control" id="id-Telefono del Veterinario:"
+                            aria-describedby="emailHelp">
+                        <small id="emailHelp" class="form-text text-muted">Por favor ingrese nu numero de telefono en
+                            este campo.</small>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="id-Edad del Veterinario: ">Edad: </label>
+                        <input type="number" class="form-control" id="id-La edad del Veterinario es :"
+                            aria-describedby="emailHelp">
+                        <small id="emailHelp" class="form-text text-muted">Por favor ingrese su edad en este
+                            campo.</small>
+                    </div>
+                    <div class="form-group">
+                        <label for="id-Dirección del veterinario: ">Dirección: </label>
+                        <input type="email" class="form-control" id="id-Dirección del Vterinario"
+                            aria-describedby="emailHelp">
+                        <small id="emailHelp" class="form-text text-muted">Por favor ingrese su dirección en este
+                            campo.</small>
+                    </div>
+                    <div class="form-group">
+                        <label for="id-Correo ElectonicoVeterinario: ">E-mail : </label>
+                        <input type="email" class="form-control" id="id-Correo ElectonicoVeterinario"
+                            aria-describedby="emailHelp">
+                        <small id="emailHelp" class="form-text text-muted">Por favor ingrese su E-mail en este
+                            campo.</small>
+                    </div>
+                    <div class="form-group">
+                        <label for="id-Contrasenia Veterinario: ">Contrasenia : </label>
+                        <input type="email" class="form-control" id="id-Contrasenia Veterinario"
+                            aria-describedby="emailHelp">
+                        <small id="emailHelp" class="form-text text-muted">Por favor ingrese su contrasenia en este
+                            campo.</small>
+                    </div>
+                    <div class="form-group">
+                        <label for="id-Fecha Registro: ">FechaRegistro: </label>
+                        <input type="DateTime" class="form-control" id="id-Fecha registro" aria-describedby="emailHelp">
+                        <small id="emailHelp" class="form-text text-muted">Por favor ingrese la fecha en este
+                            campo.</small>
+                    </div>
+                    <div class="form-group">
+                        <label for="id-Especialización del veterinario: ">Especialización: </label>
+                        <input type="Email" class="form-control" id="id-Especializacion del veterinario"
+                            aria-describedby="emailHelp">
+                        <small id="emailHelp" class="form-text text-muted">Por favor ingrese la especialización en este
+                            campo.</small>
+                    </div>
+                    <div class="form-group">
+                        <label for="id-Targeta Profesional: ">Tarjeta Profesional: </label>
+                        <input type="email" class="form-control" id="Trageta  Profesional" aria-describedby="emailHelp">
+                        <small id="emailHelp" class="form-text text-muted">Por favor ingrese el codigo de la tergeta
+                            profesional en este campo.</small>
+                    </div>
+                    <button   type="submit" class="btn btn-primary">Agragar</button>
+                    <button  type="submit" class="btn btn-primary">Editar</button>
+                    <button type="submit" class="btn btn-primary">Mostrar</button>
+                    <button type="submit" class="btn btn-primary">Eliminar</button>
+                    
+                    
+
+
+
+
+                </form>
+            </div>
+        </div>
     </div>
+    <div class="accordion" id="accordionExample">
+        <div class="card">
+            <div class="card-header" id="headingTwo">
+                <h2 class="mb-0">
+                    <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse"
+                        data-target="#collapseLista_Veterinario" aria-expanded="true"
+                        aria-controls="collapseLista_Veterinarios">
+                        Lista de Veterinario
+                    </button>
+                </h2>
+            </div>
 
-  </div>
-</div>
+            <div id="collapseLista_Veterinarios" class="collapse " aria-labelledby="headingTwo"
+                data-parent="#accordionExample">
+                <div class="card-body">
+                    <ul class="list-group">
+                        @for (int i = 1; i < 10; i++)
+                        {
+                          <li class="list-group-item">Veterinario @i</li>   
+                        }
+                       
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
